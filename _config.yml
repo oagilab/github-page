@@ -45,7 +45,7 @@ include:
 #   - vendor/bundle/
 #   - vendor/cache/
 #   - vendor/gems/
-#   - vendor/ruby/Minimal Mistakes remote theme starter
+#   - vendor/ruby/Minimal Mistakes remotePost Formats theme starter
 
 # Plugins (previously gems:)
 plugins:
@@ -65,7 +65,7 @@ author:
       icon: "fas fa-fw fa-link"
       url: "https://oagilab.org"
     - label: "Twitter"
-      icon: "fab fa-fw fa-x-twitter"
+      icon: "fab fa-fw fa-twitter"
       url: "https://x.com/oagilab"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"Post Formats
@@ -74,7 +74,7 @@ author:
 footer:
   links:
     - label: "Twitter"
-      icon: "fab fa-fw fa-x-twitter"
+      icon: "fab fa-fw fa-twitter"
       url: "https://x.com/oagilab"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"

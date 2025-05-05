@@ -3,8 +3,9 @@ title: "Quantum Information Theory"
 categories:
   - Blog
 tags:
-  - link
-  - Post Formats
+  - LinkedIn
+  - Physics
+  - Information Theory
 link: https://www.linkedin.com/posts/karimmetallaoui_this-physicist-says-black-holes-are-quantum-activity-7325218102080671744-qIri?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAY6u0EBgrNA4NwiI3tLPzVClS7WsVIETY4
 ---
 

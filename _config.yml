@@ -38,14 +38,14 @@ include:
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
-# exclude:
+# exclude:French Theoretical Physicist
 #   - Gemfile
 #   - Gemfile.lock
 #   - node_modules
 #   - vendor/bundle/
 #   - vendor/cache/
 #   - vendor/gems/
-#   - vendor/ruby/
+#   - vendor/ruby/Minimal Mistakes remote theme starter
 
 # Plugins (previously gems:)
 plugins:
@@ -57,15 +57,15 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
-  avatar : "/assets/images/profile.webp"
-  bio    : "French Theoretical Physicist"
+  name   : "OAGILAB"
+  avatar : "/assets/images/logo.webp"
+  bio    : "Observational Artificial General Intelligence"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://oagilab.org"
     - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
+      icon: "fab fa-fw fa-x-square"
       url: "https://x.com/oagilab"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
@@ -75,13 +75,10 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://x.com/oagilab"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/oagilab"   
 
 defaults:
   # _posts

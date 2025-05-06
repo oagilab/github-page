@@ -13,9 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Observational Artificial General Intelligence Lab
-logo: /assets/images/logo.webp
-email: karim@oagilab.org
+title: OAGILAB
 description: >- # this means to ignore newlines until "baseurl:"
   Observational Artificial General Intelligence Lab - Fixing 
   Healthcare One Bit and a Qbit at the time.
@@ -58,9 +56,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "OAGILAB"
-  avatar : "/assets/images/logo.webp"
-  bio    : "Observational Artificial General Intelligence"
+  name   : "Karim Metallaoui"
+  avatar : "/assets/images/profile.webp"
+  bio    : "French Theoretical Physicist - Computational Scientist and Founder"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -99,7 +97,7 @@ defaults:
       type: pages
     values:
       layout: single
-      author_profile: true
+      author_profile: false
 
 category_archive:
   type: liquid

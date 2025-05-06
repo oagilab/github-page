@@ -14,13 +14,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: OAGILAB
+logo: /assets/images/logo.webp
 description: >- # this means to ignore newlines until "baseurl:"
   Observational Artificial General Intelligence Lab - Fixing 
   Healthcare One Bit and a Qbit at the time.
 twitter_username: oagilab
 github_username: oagilab
 minimal_mistakes_skin: air
-search: true
+search: false
 
 # Build settings
 markdown: kramdown
@@ -58,7 +59,7 @@ plugins:
 author:
   name   : "Karim Metallaoui"
   avatar : "/assets/images/profile.webp"
-  bio    : "French Theoretical Physicist - Computational Scientist and Founder"
+  bio    : "French Theoretical Physicist - Computational Scientist"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"

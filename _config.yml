@@ -13,11 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: OAGILAB
+title: Observational Artificial General Intelligence Lab
+logo: /assets/images/logo.webp
 email: karim@oagilab.org
 description: >- # this means to ignore newlines until "baseurl:"
-  Observational Artificial General Intelligence - Looking for a RESPONSIBLE
-  HOME.
+  Observational Artificial General Intelligence Lab - Fixing 
+  Healthcare One Bit and a Qbit at the time.
 twitter_username: oagilab
 github_username: oagilab
 minimal_mistakes_skin: air
